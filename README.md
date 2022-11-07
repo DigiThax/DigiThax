@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DigiThax a.k.a Kevin
+- 👋 Hi, I’m @DigiThax
 - 👀 I’m interested in Machines and Mechanical Engineering, I am currently a DevOps Engineer
 - 🌱 I’m currently learning Terraform, various Azure Services and in my spare time I learn about Godot
 - 💞️ I’m looking to collaborate on (nothing yet!)
