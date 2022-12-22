@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DigiThax
-- 👀 I’m interested in Machines and Mechanical Engineering, I am currently a DevOps Engineer
-- 🌱 I’m currently learning Terraform, various Azure Services and in my spare time I learn about Godot
+- 👋 Hi, I’m @DigiThax I am a DevOps engineer at Lennox International with experience in Python, Azure, Git, CI-CD and more.
+- 👀 I’m interested in scripting and automating processes, I also am fascinated with machines and how they work
+- 🌱 I’m currently learning Terraform, various Azure Services and in my spare time I learn about Docker
 - 💞️ I’m looking to collaborate on (nothing yet!)
 - 📫 How to reach me on digithax@gmail.com
 
