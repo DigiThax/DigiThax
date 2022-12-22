@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DigiThax I am a DevOps engineer at Lennox International with experience in Python, Azure, Git, CI-CD and more.
 - 👀 I’m interested in scripting and automating processes, I am also fascinated with machines and how they work
-- 🌱 I’m currently learning Terraform, various Azure Services and in my spare time I learn about Docker
+- 🌱 I’m currently exploring Terraform, various Azure Services and in my spare time I learn about (this changes every week!)
 - 💞️ I’m looking to collaborate on (nothing yet!)
-- 📫 How to reach me on digithax@gmail.com
+- 📫 How to reach me: digithax@gmail.com
 
 <!---
 DigiThax/DigiThax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
