@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DigiThax I am a DevOps engineer at Lennox International adept in Azure DevOps with experience in various resources in Azure and hands on Terraform and docker containers.
+- 👋 Hi, I’m @DigiThax I am a DevOps engineer
 - 💞️ I’m looking to collaborate on (nothing yet!)
 - 📫 How to reach me: digithax@gmail.com
 
